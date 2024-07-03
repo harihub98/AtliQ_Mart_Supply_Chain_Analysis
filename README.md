@@ -1,5 +1,5 @@
 # AtliQ Mart Supply Chain Analysis
-As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
+This project is done as part of the Codebaiscs resume project challenge.
 
 Challenge [Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
