@@ -3,7 +3,7 @@ This project is done as part of the Codebaiscs resume project challenge.
 
 Challenge [Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Live Dashboard [Link]()
+Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiNTcwODI1NTItNDMyMy00ZjU2LWJkZTMtZWYxZTNiNDBkNTFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Problem statement
